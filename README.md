@@ -18,7 +18,7 @@ You can install the `requests` library using pip:
 
 
 pip install requests
-text
+
 
 ## Usage
 
@@ -29,7 +29,6 @@ text
 
 
 python your_script_name.py
-text
 
 Replace `your_script_name.py` with the actual name of your Python file.
 
